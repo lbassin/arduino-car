@@ -1,0 +1,9 @@
+
+#define REMOTE_ENABLED 1
+#define REMOTE_BACKWARD 2
+#define REMOTE_RIGHT 4
+#define REMOTE_LEFT 8
+#define REMOTE_BTN_C 16
+#define REMOTE_BTN_Z 32
+#define REMOTE_FORWARD 64
+#define EMPTY_02 128
